@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../python-template"
+		}
+	],
+	"settings": {},
+	// "extensions.enabled": ["ms-python.vscode-pylance", "ms-python.python"]
+}

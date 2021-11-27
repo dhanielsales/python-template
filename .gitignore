@@ -1,0 +1,7 @@
+# Application
+/.env
+tmp/*
+!tmp/.gitkeep
+
+# Python Environment 
+venv/
