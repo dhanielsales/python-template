@@ -12,13 +12,3 @@ Create a python environment:
 ```
 make setup
 ```
-
-## Optional recomendation for manage python libs
-
-<br>
-
-Install pipenv:
-
-```
-pip install --user pipenv
-```
